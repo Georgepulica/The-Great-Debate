@@ -1,0 +1,35 @@
+	Characters:
+-Aang:
+Bio:The last surviving Airbender whose a monk that can bend elements to his will
+Quote:When we hit our lowest point, we are open to the greatest change
+
+-Albert Einstein:
+Bio:Genius of his era, a Theorist who revolutionized scientists' understanding of every thing from space and time to gravity and energy.
+Quote:Everything should be made as simple as possible, but not simpler
+
+-Albus Dumbledore:
+Bio:Headmaster of the wizarding school Hogwarts, Professor Dumbledore is one of the most skilled wizards
+Quote:It does not do to dwell on dreams and forget to live
+
+	Attributes:
+-Able to hack the bullets out of you
+
+-Afraid of Communists
+
+-Allergic to the light
+
+	Accessory:
+-100 Yen Bill
+
+-3d printer
+
+-90's Boombox (20 D batteries required)
+
+	Location:
+-A horse drawn wagon
+
+-A locker room
+
+-Airport
+
+
